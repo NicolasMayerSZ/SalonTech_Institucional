@@ -59,7 +59,7 @@ header {
     min-height: 100vh;
     background:
         linear-gradient(rgba(0, 0, 0, .25), rgba(0, 0, 0, .25)),
-        url("../img/imgSalonTech.png");
+        url("img/imgSalonTech.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
