@@ -52,13 +52,6 @@ function renderVisibleReviews() {
     }
 }
 
-// function loadReviews() {
-//     if (!feedbackRow) return;
-
-//     allReviews = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
-//     renderVisibleReviews();
-// }
-
 async function loadReviews() {
     try {
         const snapshot = await reviewsRef.orderByChild("timestamp").once("value");
@@ -73,14 +66,6 @@ async function loadReviews() {
         console.error("Erro ao carregar avaliações:", error);
     }
 }
-
-// function saveReview(review) {
-//     allReviews = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
-//     allReviews.unshift(review);
-//     localStorage.setItem(STORAGE_KEY, JSON.stringify(allReviews));
-//     visibleCount = MAX_VISIBLE;
-//     renderVisibleReviews();
-// }
 
 async function saveReview(review) {
     try {
