@@ -24,6 +24,7 @@ Link: https://salontech-web03.web.app
 - JavaScript
 - Bootstrap
 - Font Awesome
+- Firebase
 - Firebase Hosting
 
 ## Estrutura do Projeto
