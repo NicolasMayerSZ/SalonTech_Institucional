@@ -3,6 +3,7 @@ const sections = document.querySelectorAll("section[id]");
 const navLinks = document.querySelectorAll(".nav-link");
 const feedbackRow = document.querySelector("#feedback .row");
 const avaliacaoForm = document.querySelector(".avaliacao-form");
+
 const firebaseConfig = {
     apiKey: "AIzaSyBLyrnpoVjuyPN1CTENcugyAEfMjbxSors",
     authDomain: "salontech-web03.firebaseapp.com",

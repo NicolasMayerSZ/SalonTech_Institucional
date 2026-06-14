@@ -1,12 +1,12 @@
-# 💇‍♀️ SalonTech
+# SalonTech - Institucional
 
 Sistema web desenvolvido para apresentação de um salão de beleza moderno, permitindo a divulgação de serviços, exibição de avaliações de clientes e envio de feedbacks de forma simples e intuitiva.
 
-## 📸 Preview
+## Preview
 
 Link: https://salontech-web03.web.app
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Página inicial moderna e responsiva
 - Apresentação institucional do salão
@@ -17,7 +17,7 @@ Link: https://salontech-web03.web.app
 - Rodapé com informações de contato e redes sociais
 - Navegação suave entre seções da página
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -26,7 +26,7 @@ Link: https://salontech-web03.web.app
 - Font Awesome
 - Firebase Hosting
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```bash
 SalonTech/
@@ -47,7 +47,7 @@ SalonTech/
 └── README.md
 ```
 
-## 🎨 Layout
+## Layout
 
 O projeto foi desenvolvido utilizando uma identidade visual elegante e moderna, com foco na experiência do usuário e na valorização dos serviços do salão.
 
@@ -82,7 +82,7 @@ O projeto foi desenvolvido utilizando uma identidade visual elegante e moderna, 
   - Localização
   - Redes sociais
 
-## 📱 Responsividade
+## Responsividade
 
 O sistema foi desenvolvido para funcionar em:
 
@@ -90,7 +90,7 @@ O sistema foi desenvolvido para funcionar em:
 - Tablet
 - Smartphones
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos de desenvolvimento front-end, incluindo:
 
@@ -100,6 +100,6 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos de desenvolvi
 - Manipulação do DOM com JavaScript
 - Componentização visual
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT.
